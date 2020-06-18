@@ -3,5 +3,4 @@ channels:
 dependencies:
   - numpy
   - pillow
-  - opencv
   - matplotlib
